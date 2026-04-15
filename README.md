@@ -1,5 +1,14 @@
 # Crime-Analysis-Against-Children-in-India
-This project deals with data analysis using a Machine Learning approach on the topic "Crimes Against Children in India 2017 onwards"
+Excited to share my project on Crime Analysis Against Children in India
+This project focuses on analyzing real-world crime datasets using data analysis and machine learning techniques to uncover patterns, trends, and correlations.
+
+Key highlights:
+• Data cleaning & EDA
+• Correlation heatmap analysis
+• Visualization of crime trends
+• ML-based insights
+
+Looking forward to feedback and suggestions!
 
 # Overview
 This project focuses on analyzing crimes against children in India using real-world datasets from 2017 onwards. The goal is to uncover patterns, trends, and correlations using data analysis and machine learning techniques.
